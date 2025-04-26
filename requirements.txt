@@ -1,0 +1,6 @@
+yfinance
+gspread
+oauth2client
+pandas
+openpyxl
+gspread-formatting

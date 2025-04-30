@@ -1,12 +1,12 @@
 {
-    "sheet_name": "Stock Portfolio Tracker",
-    "stocks": [
-      {"ticker": "AAPL", "purchase_price": 150.75, "shares": 10},
-      {"ticker": "MSFT", "purchase_price": 280.50, "shares": 5},
-      {"ticker": "NVDA", "purchase_price": 105.30, "shares": 20},
-      {"ticker": "GOOGL", "purchase_price": 128.45, "shares": 8},
-      {"ticker": "AMZN", "purchase_price": 145.78, "shares": 12},
-      {"ticker": "TSM", "purchase_price": 100, "shares": 6}
-    ]
-  }
+"sheet_name": "Stock Portfolio Tracker",
+"stocks": [
+    {"ticker": "AAPL", "purchase_price": 150.75, "shares": 10},
+    {"ticker": "MSFT", "purchase_price": 280.50, "shares": 5},
+    {"ticker": "NVDA", "purchase_price": 105.30, "shares": 20},
+    {"ticker": "GOOGL", "purchase_price": 128.45, "shares": 8},
+    {"ticker": "AMZN", "purchase_price": 145.78, "shares": 12},
+    {"ticker": "TSM", "purchase_price": 100, "shares": 6}
+]
+}
   

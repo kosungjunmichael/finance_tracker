@@ -1,0 +1,11 @@
+id: refresh_portfolio
+name: Refresh Portfolio Sheet
+description: Fetches live stock data using yfinance and updates a formatted Google Sheet with performance metrics.
+parameters: {}
+output:
+  type: object
+  properties:
+    status:
+      type: string
+    message:
+      type: string
